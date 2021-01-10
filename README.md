@@ -1,1 +1,1 @@
-# Grip_task3
+The project is to find the decision tree for the given iris dataset 
